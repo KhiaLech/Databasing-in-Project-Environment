@@ -6,3 +6,13 @@ C:\Users\102273448\source\repos\Databasing in Project Environment\Database\obj\D
 C:\Users\102273448\source\repos\Databasing in Project Environment\Database\obj\Debug\predeploy.sql
 C:\Users\102273448\source\repos\Databasing in Project Environment\Database\obj\Debug\Database.dll
 C:\Users\102273448\source\repos\Databasing in Project Environment\Database\obj\Debug\Database.pdb
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\bin\Debug\Database.dacpac
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\bin\Debug\Database.dll
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\bin\Debug\Database.pdb
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\Database.dll
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\Database.pdb
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\Model.xml
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\refactor.xml
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\postdeploy.sql
+C:\Users\102273448\source\repos\Databasing-in-Project-Environment\Database\obj\Debug\predeploy.sql
